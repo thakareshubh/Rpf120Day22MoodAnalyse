@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ClsfHNjYq8l48mxw2BnB9pD3cLENyuSh0VQghaAAC8ORL6oy37jklwB6MoZPKq1UVYmFvmdc0y1+z+p9AF67JQ==",
+  "success": true,
+  "projectFilePath": "E:\\.net\\Rpf120Day22MoodAnalyseReflection\\Uc1ReflectionMoodAnalyser\\Uc1ReflectionMoodAnalyser\\Uc1ReflectionMoodAnalyser.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
